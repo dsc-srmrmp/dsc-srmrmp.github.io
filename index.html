@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="DSC SRM Ramapuram">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="theme-color" content="#17a2b8">
+    <meta name="msapplication-navbutton-color" content="#17a2b8">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#17a2b8">
+   <!-- Stylesheets -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../unpkg.com/aos%403.0.0-beta.6/dist/aos.css" />
+      
+          <!-- Favicon linking -->
+          <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+          <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+          <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+          <!-- Favicon linking ends -->
+
+       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Exo+2&amp;display=swap" rel="stylesheet">
+    <link href="../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="../stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Developers Student Club SRM</title>
+    <style>
+    
+/* width */
+::-webkit-scrollbar {
+					width: 10px;
+				}
+
+				/* Track */
+				::-webkit-scrollbar-track {
+					box-shadow: inset 0 0 5px grey; 
+					border-radius: 10px;
+				}
+
+				/* Handle */
+				::-webkit-scrollbar-thumb {
+					background: #9F9DC1; 
+					border-radius: 10px;
+				}
+
+				/* Handle on hover */
+				::-webkit-scrollbar-thumb:hover {
+					background: #363056; 
+				}
+    
+    </style>
+    <script
+    src="../code.jquery.com/jquery-3.4.1.js"
+    integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+    crossorigin="anonymous"></script>
+  
+    <script >
+      $(window).on('scroll',function(){
+        if($(window).scrollTop()){
+          $('nav').addClass('boxS');
+        }
+        else{
+          $('nav').removeClass('boxS');
+        }
+      })
+  
+    </script>
+  
+</head>
+<body style="overflow-x: hidden;" onload="preloader()"> 
+
+<!-- Preloader -->
+
+<div id="loader_page">
+  <img src="img/giphy.gif" alt="" class="img-fluid" width="30%">
+</div>
+  
+  
+<!-- Preloader Ends -->
+<div id="main_content">
+    <nav class=" navbar navbar-expand-lg navbar-light bg-light  " style=" overflow-x: hidden;  position: fixed; width: 100%; top: 0px; z-index: 999;">
+    
+      
+      <a class="navbar-brand" href="index-2.html"  >
+        <img class="logo1" src="../assets/DSC SRM IST, Ramapuram Campus Logo x1.png" style="height: 37px; width: 80px; opacity: 1; " alt="">
+            <img class="logo2"  src="img/dsc_linear.png" style="max-width: 400px; height: 37px; opacity: 1; " alt="">
+        </a>
+
+        <div class="collapse navbar-collapse" id="navbarNavDropdown" style="position: inherit; right: 2%;">
+          <ul class="navbar-nav" >
+            <li class="nav-item active" >
+              <a class="nav-link" href="#" style="border-bottom: 2px solid #007bff;">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="team.html">Team</a>
+            </li>
+         
+            <li class="nav-item">
+                <a class="nav-link" href="events.html">Events</a>
+            </li>
+       
+            <li class="nav-item">
+                <a class="nav-link "  href="contact.html">Contact</a>
+            </li>
+          </ul>
+        </div>
+        
+        <i class="material-icons"  id="menu" onclick="openNav()" style=" color: black;">menu</i>
+        
+
+          
+      </nav>
+      
+      <br><br><br><br><br>
+<!-- Mobile menu -->
+<div id="mobile__menu" class="overlay" style="z-index: 999999;">
+    <div class="overlay__content">
+        <a href="#">Home</a>
+        <a href="team.html">Team</a>
+        <a href="events.html">Events</a>
+        <a href="contact.html">Contact</a>
+        
+    </div>
+</div>
+
+<!-- Content -->
+
+
+
+
+<section>
+<div class="container-fluid">
+  <div class="row"> 
+    <div data-aos="fade-right"  class="col-md-6">
+  <div class="main" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); background-color: white; text-align: center; padding:40px">
+    <div class="intro"><h1 style="color: grey; font-size: 2em; letter-spacing: 2px; font-weight: bold;"> 
+      Making college great, <span style="color: #007bff;"> Again</span></h1></div>
+   <div class="introText" style="margin-top: 20px; letter-spacing: 2px; ">
+    <p style="font-size: 20px; font-weight: normal; letter-spacing: .1px;">
+      <span style=" font-weight: bold; color: rebeccapurple;"> DSC SRM RMP</span> is a team of intelligent coders, skillfull developers, creative designers who channelise their
+       hardwork and contribute towards building and developing various sort of projects. Here, you will be lead by amazing 
+       seniors. It is your family away from family. Our <b>motto</b>: <br> <code>while(!success){ <br>
+         tryHarder(); <br>
+       }
+       </code>
+
+       </p> </div>
+  </div>
+
+
+  </div>
+  <div class="col-md-6 " style="display: flex; justify-content: center; align-items: center;" data-aos="fade-up"><img src="img/motion.gif" class="img-fluid" alt=""></div>
+</div>
+
+
+<div class="row" style="margin-top: 70px;"> 
+  <div class="col-md-6 " data-aos="fade-up" style="display: flex; align-items: center; justify-content: center;"><img src="img/dsc_Srm3.png" class="img-fluid" alt="" >
+  </div>
+  <div class="col-md-6" data-aos="fade-right">
+<div class="main" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); text-align: center; padding:40px">
+ <div class="introText" style="background-color: white; margin-top: 20px; letter-spacing: 2px; ">
+  <p style="font-size: 20px; font-weight: normal; letter-spacing: .1px;"> Developer Student Clubs are university based community groups for 
+    students interested in Google developer technologies. Students from 
+    all undergraduate or graduate programs with an interest in growing as
+     a developer are welcome. By joining a DSC, students grow their knowledge
+      in a peer-to-peer learning environment and build solutions for local 
+      businesses and their community.</p>
+      <a href="https://developers.google.com/community/dsc" class="btn btn-primary" style="opacity: 1;">Check More</a>
+
+     </p> </div>
+
+</div>
+</div>
+</div>
+
+
+<!-- What we do? -->
+<div class="jumbotron" style="margin-top:80px; background-color: white;">
+
+<div data-aos="fade-up" style="animation-duration: 2s;"><h1 style="text-align: center;" >What we do?</h1>
+</div>
+<div class="row" style="margin-top:70px">
+
+
+<div class="col-md-4" data-aos="zoom-in">
+
+  <div class="card card1" style="border: none; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" >
+    <img class="card-img-top" style="height: 130px;" src="img/development.svg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align: center; font-weight: bold;">Development</h5>
+      <p class="card-text" style="text-align: center;">At development club, we make web applications as well as android applications that can solve your day to day problems.</p>
+      
+    </div>
+  </div>
+  
+</div>
+
+
+<div class="col-md-4" data-aos="zoom-in">
+
+  <div class="card card1" style="border: none; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" >
+    <img class="card-img-top" style="height: 130px; " src="img/coding.svg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align: center; font-weight: bold;">Programming</h5>
+      <p class="card-text" style="text-align: center;">At programming club, we have geeks who code solutions to some real world problems and automate the boring stuff.</p>
+      
+    </div>
+  </div>
+
+</div>
+
+
+<div class="col-md-4" data-aos="zoom-in">
+
+  <div class="card card1" style="border: none; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" >
+    <img class="card-img-top" style="height: 130px;" src="img/design.svg" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title" style="text-align: center; font-weight: bold;">Designing</h5>
+      <p class="card-text" style="text-align: center;">At designing club, we have creative minds who show their creativity in designing posters, graphic visualisations for the team.</p>
+      
+    </div>
+  </div>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- Team -->
+
+<div class="jumbotron " data-aos="fade-up" style="padding: 58px; animation-duration: 1.5s;">
+
+  <div class="row">
+    <div class="col-md-8">
+  <div >  <h1 style="text-align: center;">Meet our team!</h1>
+  </div>
+<div >  <h5 style="text-align: center;">We have dynamic and amazing team which will inspire you and motivate you to be productive. They make <span style="color: rebeccapurple;  font-weight: bold;">DSC SRM IST Ramapuram Campus</span> a better platform to learn. </h5>
+</div>
+  <div style="text-align: center; margin-top: 25px;"><a href="team.html" class="btn btn-info" >Our Team</a></div></div>
+
+  <div class="col-md-4 meet_team">
+    <img src="img/meet_team.svg" class="img-fluid"  width="320px" alt="">
+  </div>
+
+</div>
+</div>
+
+
+
+<!-- Projects -->
+
+<div class="jumbotron " data-aos="fade-up" style="animation-duration: 1.5s; padding: 58px;">
+<div class="row">
+  <div class="col-md-4 meet_team">
+    <img src="img/our_proj.svg" class="img-fluid" width="320px" alt="">
+  </div>
+  <div class="col-md-8">
+<div  >  <h1 style="text-align: center; margin-top: 30px;">See the Upcoming Event</h1>
+</div>
+<div  > <h5 style="text-align: center;">Have a experience with us Register, build and develop. Go ahead!</h5>
+</div>
+<div style="text-align: center; margin-top: 25px;"><a href="events.html" class="btn btn-info" >Register</a></div>
+</div>
+
+</div>
+
+</div>
+</section>
+
+<!-- Footer -->
+
+<footer style="display: flex; justify-content: center; text-align: center; flex-direction: column;" >
+
+
+
+
+<div class="getintouch " data-aos="fade-up" style="margin-top: 40px;">
+  <a href="mailto:dsc.srmramapuram@gmail.com" class="btn btn-dark">Get in Touch</a>
+</div>
+
+
+
+<div class="social" data-aos="fade-up" style="margin-top: 30px; margin-bottom: 100px;">
+  <a href="https://twitter.com/dscsrmramapuram" target="_blank" style="text-decoration: none; color: grey;"><i class='fa fa-twitter' id="links" style='font-size:36px; '></i></a>
+<a href="https://www.youtube.com/channel/UCEym9CYeeSWiMtQwN9YQXOQ/" target="_blank" style="text-decoration: none; color: grey;"><i class='fa fa-youtube' id="links" style='font-size:36px; '></i></a>
+<a href="https://github.com/dsc-srmrmp" target="_blank" style="text-decoration: none; color: grey;"><i class='fa fa-github' id="links" style='font-size:36px; '></i></a>
+<a href="https://www.linkedin.com/company/dsc-srm-ramapuram/" target="_blank" style="text-decoration: none; color: grey;"><i class="fa fa-linkedin-square" style="font-size:36px" id="links"></i></a>
+<a href="https://www.instagram.com/dscsrm.rmp/" target="_blank" style="text-decoration: none; color: grey;"><i class="fa fa-instagram" style="font-size:36px" id="links" ></i></a>
+</div>
+
+</footer>
+
+</div>
+
+<script>
+function preloader(){
+  document.getElementById('loader_page').style.display="none";
+  document.getElementById('main_content').style.opacity="1";
+}
+
+</script>
+
+<script>
+
+
+  
+  function openNav() {
+
+    if(document.getElementById('mobile__menu').className=="overlay"){
+    	document.getElementById("mobile__menu").classList.add('overlay_clicked');
+         document.getElementById('menu').innerText='close';
+         document.getElementById('menu').style.backgroundColor='#17a2b8';
+         document.getElementById('menu').style.opacity='.7';
+         document.getElementById('menu').style.color='white';
+         document.getElementById('menu').style.borderColor='#17a2b8';
+
+
+    }
+
+    else{
+         document.getElementById("mobile__menu").classList.remove('overlay_clicked');  
+         document.getElementById("mobile__menu").classList.add('overlay');
+         document.getElementById('menu').innerText='menu';
+         document.getElementById('menu').style.backgroundColor='white';
+         document.getElementById('menu').style.color='black';
+
+    }
+
+}
+
+
+
+</script>
+
+ <script src="../unpkg.com/aos%403.0.0-beta.6/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+
+</body>
+</html>

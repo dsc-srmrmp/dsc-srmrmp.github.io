@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="theme-color" content="#17a2b8">
+    <meta name="msapplication-navbutton-color" content="#17a2b8">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#17a2b8">
+   <!-- Stylesheets -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/team.css">
+   
+    <link rel="stylesheet" href="../unpkg.com/aos%403.0.0-beta.6/dist/aos.css" />
+       <!-- Favicon linking -->
+       <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+       <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+       <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+       <!-- Favicon linking ends -->
+       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+       <link href="https://fonts.googleapis.com/css?family=Exo+2&amp;display=swap" rel="stylesheet">
+       <link href="../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="../stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Team | DSC SRM RMP</title>
+    <style>
+    
+    /* Scrollbar */
+
+
+/* width */
+::-webkit-scrollbar {
+					width: 10px;
+				}
+
+				/* Track */
+				::-webkit-scrollbar-track {
+					box-shadow: inset 0 0 5px #ffc107; 
+					border-radius: 10px;
+				}
+
+				/* Handle */
+				::-webkit-scrollbar-thumb {
+					background: #ffc107; 
+					border-radius: 10px;
+				}
+
+				/* Handle on hover */
+				::-webkit-scrollbar-thumb:hover {
+					background: #ffc107; 
+				}
+    
+    </style>
+<script
+src="../code.jquery.com/jquery-3.4.1.js"
+integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+crossorigin="anonymous"></script>
+
+<script >
+  $(window).on('scroll',function(){
+    if($(window).scrollTop()){
+      $('nav').addClass('boxS');
+    }
+    else{
+      $('nav').removeClass('boxS');
+    }
+  })
+
+</script>
+
+
+</head>
+<body style="overflow-x: hidden;" onload="preloader()">
+
+<!-- Preloader -->
+
+<div id="loader_page">
+  <img src="img/giphy.gif" alt="" class="img-fluid" width="30%">
+</div>
+  
+<!-- Preloader Ends -->
+
+    <nav class=" navbar navbar-expand-lg navbar-light bg-light  " style=" overflow-x: hidden;  position: fixed; width: 100%; top: 0px; z-index: 100; ">
+
+      <a class="navbar-brand" href="index-2.html" >
+        <img class="logo1" src="img/logo.png" style="height: 37px;  width: 80px; opacity: 1; " alt="">
+            <img class="logo2"  src="../assets/DSC SRM IST, Ramapuram Campus Logo x1.png" style="max-width: 500px; height: 37px; opacity: 1; " alt="">
+        </a>
+
+        <div class="collapse navbar-collapse" id="navbarNavDropdown" style="position: inherit; right: 2%;">
+          <ul class="navbar-nav" >
+            <li class="nav-item " >
+              <a class="nav-link" href="index-2.html">Home </a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="#" style="border-bottom: 2px solid #007bff;">Team<span class="sr-only">(current)</span></a>
+            </li>
+        
+            <li class="nav-item">
+                <a class="nav-link" href="events.html">Events</a>
+              </li>
+              
+              <li class="nav-item">
+                
+                <a class="nav-link "  href="contact.html"> Contact </a>
+              </li>
+           
+          </ul>
+        </div>
+        <i class="material-icons"  id="menu" onclick="openNav()" style=" color: black;">menu</i>
+
+          
+      </nav>
+      
+      <br><br><br><br><br>
+<!-- Mobile menu -->
+<div id="mobile__menu" class="overlay" style="z-index: 99999999;">
+       <div class="overlay__content">
+        <a href="index-2.html">Home</a>
+        <a href="#">Team</a>
+        <a href="events.html">Events</a>
+        <a href="contact.html">Contact</a>
+        
+    </div>
+</div>
+
+<!-- Content -->
+
+
+<!-- partial:index.partial.html -->
+<section>
+  <section class="team-page-section">
+      <div class="container" style="margin-top:-100px;">
+          <!-- Sec Title -->
+          <div style="font-size:40px; display: flex; margin-left: 5%; margin-right: 5%; justify-content: center; align-items: center; font-weight: bold;padding:15px; margin-bottom: 0px;">Our Team !</div>
+          <div style="font-size: 28px; display: flex; margin-left: 5%; margin-right: 5%; justify-content: center; align-items: center; padding:15px; color:grey; margin-bottom: 50px;">Meet the heart of our club !</div>
+          <div class="row clearfix">
+
+              <!-- Team Block -->
+              <div class="container-fluid std" style="margin-bottom: 15px;">
+                <div class="line"></div>
+                <div>
+                    <h6>Core Team</h6>
+                </div>
+                <div class="line"></div>
+            </div>
+
+              <div class="team-block col-lg-4 col-md-6 col-sm-12">
+                  <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                      <ul class="social-icons">
+                        <li><a href="https://github.com/Aravindh020"><i class="fa fa-github"></i></a></li>
+
+                        <li><a href="https://www.linkedin.com/in/aravindh020/"><i class="fa fa-linkedin-square"></i></a></li>
+                    </ul>
+                    <div class="image">
+                        <a href="#"><img src="img/lead.jpg" style="height: 80%;" alt="" /></a>
+                      </div>
+                      <div class="lower-content">
+                          <h3><a href="#">Aravind Balaji</a></h3>
+                          <div class="designation">DSC LEAD </div>
+                      </div>
+                  </div>
+              </div>
+              <!-- Team Block -->
+              <div class="team-block col-lg-4 col-md-6 col-sm-12">
+                  <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                      <ul class="social-icons">
+                          <li><a href="https://github.com/lmntrixsid"> <i class="fa fa-github"></i></a></li>
+
+                          <li><a href="https://www.linkedin.com/in/siddhant-singh-6525a2174/"><i class="fa fa-linkedin-square"></i></a></li>
+                      </ul>
+                      <div class="image">
+                          <a href="#"><img src="img/siddd.jpg" style="height: 80%;" alt="" /></a>
+                      </div>
+                      <div class="lower-content">
+                          <h3><a href="#">Sidhant Singh </a></h3>
+                          <div class="designation">Tech Lead | Cloud </div>
+                      </div>
+                  </div>
+              </div>
+              <!-- Team Block -->
+              <div class="team-block col-lg-4 col-md-6 col-sm-12">
+                  <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                      <ul class="social-icons">
+                          <li><a href="https://github.com/iamshubhamg"><i class="fa fa-github"></i></a></li>
+
+                          <li><a href="https://www.linkedin.com/in/iamshubhamg"><i class="fa fa-linkedin-square"></i></a></li>
+                      </ul>
+                      <div class="image">
+                          <a href="#"><img src="img/giri.jpg" alt="" /></a>
+                      </div>
+                      <div class="lower-content">
+                          <h3><a href="#">Shubham Giri</a></h3>
+                          <div class="designation">Tech Lead | Web-PR</div>
+                      </div>
+                  </div>
+              </div>
+              <!-- Team Block -->
+              <div class="team-block col-lg-4 col-md-6 col-sm-12">
+                  <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                      <ul class="social-icons">
+                          <li><a href="https://github.com/keshavjaiswal39"><i class="fa fa-github"></i></a></li>
+
+                          <li><a href="https://www.linkedin.com/in/keshav-jaiswal-685276178/"><i class="fa fa-linkedin-square"></i></a></li>
+                      </ul>
+                      <div class="image">
+                          <a href="#"><img src="img/keshav.jpg" alt="" /></a>
+                      </div>
+                      <div class="lower-content">
+                          <h3><a href="#">Keshav Jaiswal</a></h3>
+                          <div class="designation">Tech Lead | Flutter</div>
+                      </div>
+                  </div>
+              </div>
+              <div class="team-block col-lg-4 col-md-6 col-sm-12">
+                <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <ul class="social-icons">
+                        <li><a href="https://github.com/zoyaa811"> <i class="fa fa-github"></i></a></li>
+
+                        <li><a href="https://www.linkedin.com/in/zoya-ahmad-17396417a/"><i class="fa fa-linkedin-square"></i></a></li>
+                    </ul>
+                    <div class="image">
+                        <a href="#"><img src="img/zoya.jpg" style="height: 80%;" alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <h3><a href="#">Zoya Ahmad</a></h3>
+                        <div class="designation">Techical Associate </div>
+                    </div>
+                </div>
+            </div>
+              <!-- Team Block -->
+              <div class="team-block col-lg-4 col-md-6 col-sm-12">
+                  <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                      <ul class="social-icons">
+
+                          <li><a href="https://github.com/mmirthula02"><i class="fa fa-github"></i></a></li>
+
+                          <li><a href="https://www.linkedin.com/in/mirthula-m-77b1461a4/"><i class="fa fa-linkedin-square"></i></a></li>
+                      </ul>
+                      <div class="image">
+                          <a href="#"><img src="img/mrithu.jpg" alt="" /></a>
+                      </div>
+                      <div class="lower-content">
+                          <h3><a href="#">Mirthula M </a></h3>
+                          <div class="designation">Tech Lead | ML </div>
+                      </div>
+                  </div>
+              </div>
+              <!-- Team Block -->
+              <!-- Team Block -->
+              
+              <!-- Team Block -->
+              <!--
+                   Team Block 
+                -->
+              
+
+
+
+<!-- Footer -->
+
+<footer style="display: flex; justify-content: center; text-align: center; flex-direction: column;" >
+
+
+
+
+<div class="getintouch " data-aos="fade-up" style="margin-top: 40px;">
+    <a href="mailto:dsc.srmramapuram@gmail.com" class="btn btn-dark">Get in Touch</a>
+</div>
+
+
+
+<div class="social" data-aos="fade-up" style="margin-top: 30px; margin-bottom: 100px;">
+    <a href="https://twitter.com/dscsrmramapuram" target="_blank" style="text-decoration: none; color: grey;"><i class='fa fa-twitter' id="links" style='font-size:36px; '></i></a>
+    <a href="https://www.youtube.com/channel/UCEym9CYeeSWiMtQwN9YQXOQ/" target="_blank" style="text-decoration: none; color: grey;"><i class='fa fa-youtube-square' id="links" style='font-size:36px; '></i></a>
+    <a href="https://github.com/dsc-srmrmp" target="_blank" style="text-decoration: none; color: grey;"><i class='fa fa-github' id="links" style='font-size:36px; '></i></a>
+    <a href="https://www.linkedin.com/company/dsc-srm-ramapuram/" target="_blank" style="text-decoration: none; color: grey;"><i class="fa fa-linkedin-square" style="font-size:36px" id="links"></i></a>
+    <a href="https://www.instagram.com/dscsrm.rmp/" target="_blank" style="text-decoration: none; color: grey;"><i class="fa fa-instagram" style="font-size:36px" id="links" ></i></a>
+</div>
+
+
+
+
+</footer>
+
+<script>
+  function preloader(){
+    document.getElementById('loader_page').style.display="none";
+    document.getElementById('main_content').style.opacity="1";
+  }
+  
+  </script>
+
+<script>
+
+function openNav() {
+
+if(document.getElementById('mobile__menu').className=="overlay"){
+     document.getElementById("mobile__menu").classList.add('overlay_clicked');
+     document.getElementById('menu').innerText='close';
+     document.getElementById('menu').style.backgroundColor='#17a2b8';
+     document.getElementById('menu').style.opacity='.7';
+     document.getElementById('menu').style.color='white';
+     document.getElementById('menu').style.borderColor='#17a2b8';
+
+
+}
+
+else{
+     document.getElementById("mobile__menu").classList.remove('overlay_clicked');  
+     document.getElementById("mobile__menu").classList.add('overlay');
+     document.getElementById('menu').innerText='menu';
+     document.getElementById('menu').style.backgroundColor='white';
+     document.getElementById('menu').style.color='black';
+
+}
+
+}
+
+
+</script>
+ 
+ <script src="../unpkg.com/aos%403.0.0-beta.6/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+
+</body>
+</html>
