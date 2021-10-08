@@ -3,7 +3,7 @@ layout:     post
 title:      Setting up Flutter development environment for Windows
 subtitle:   Flutter Madness!!
 date:       2021-09-06 12:00:00
-author:     "GDSC | Shrihari S"
+author:     "GDSC | Srihari S"
 header-img: "img/inpost/Flutter-logo.png"
 catalog: true
 tags:
