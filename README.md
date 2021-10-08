@@ -1,4 +1,4 @@
-# DSC-SRM-RMP-Blog
+# DSC-SRM-IST-RMP-BLOG
 https://dsc-srmrmp.github.io/
 
 ## WHAT IS HACKTOBER?
