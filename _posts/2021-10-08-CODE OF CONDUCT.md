@@ -4,7 +4,7 @@ title:      CODE OF CONDUCT
 subtitle:   Conductor codes
 date:       2021-10-08 12:00:00
 author:     "GDSC | Namrutha H"
-header-img: "img/coc.png"
+header-img: "img/inpost/coc.png"
 catalog: true
 tags:
     - Code of conduct
