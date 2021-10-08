@@ -1,6 +1,6 @@
 # Site settings
-title: GDSC SRM RAMAPURAM BLOG
-SEOTitle: GDSC SRM RMP
+title: GDSC SRM IST RAMAPURAM BLOG
+SEOTitle: GDSC SRM IST RMP
 header-img: img/home-bg.png
 email: dsc.srmramapuram@gmail.com
 description: "Powered By Google"
@@ -60,7 +60,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Google Developer Students Club's (GDSC) SRM Ramapuram"
+sidebar-about-description: "Google Developer Students Club's (GDSC) SRM IST Ramapuram"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
