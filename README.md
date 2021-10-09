@@ -28,6 +28,9 @@ Create your very first pull request to any public repository on GitHub and contr
 
 >Let's connect via the [social media](https://linktr.ee/dscsrm.rmp) platforms and you can reach out to us. You can ask us any queries you have in our [Whatsapp Group](https://chat.whatsapp.com/LYXXM1rcUpJIoq3AvwImLV) . We're here to help.
 
+
+<br>
+
 <p align="center">
 <a href="https://twitter.com/dscsrmramapuram" target="_blank"><img src="https://louisville.edu/artsandsciences/images/icons/social/twitter-color-transparent.png/image" alt="twitter" alt="twitter" height="60" width="60" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/dscsrm.rmp/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="instagram" height="60" width="60" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/dsc-srm-ramapuram/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="60" width="60" /></a> &nbsp;&nbsp;
 </p>
