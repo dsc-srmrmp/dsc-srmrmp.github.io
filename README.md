@@ -27,4 +27,7 @@ Create your very first pull request to any public repository on GitHub and contr
 &nbsp;&nbsp;
 
 >Let's connect via the [social media](https://linktr.ee/dscsrm.rmp) platforms and you can reach out to us. You can ask us any queries you have in our [Whatsapp Group](https://chat.whatsapp.com/LYXXM1rcUpJIoq3AvwImLV) . We're here to help.
-<a href="https://twitter.com/dscsrmramapuram" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" alt="twitter" height="60" width="60" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/dscsrm.rmp/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="60" width="60" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/dsc-srm-ramapuram/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="60" width="60" /></a> &nbsp;&nbsp;
+
+<p align="center">
+<a href="https://twitter.com/dscsrmramapuram" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" alt="twitter" height="60" width="60" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/dscsrm.rmp/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="60" width="60" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/dsc-srm-ramapuram/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="60" width="60" /></a> &nbsp;&nbsp;
+</p>
