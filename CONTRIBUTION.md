@@ -1,3 +1,6 @@
+---
+permalink: contribution
+---
 ## How to contribute
 
 1. Fork the project, using the gray `Fork` button in the top right of this page
