@@ -1,15 +1,5 @@
 ![GDSS SRM IST RMP LOGO](https://i.ibb.co/6PTG0gK/GDSC-SRM-Institute-of-Science-Technology-Ramapuram-Campus-Logo-x1.png)
 
-<h1 align="center"> WHAT IS HACKTOBERFEST? 🤔 ❓ </h1>
-
-&nbsp;&nbsp;
-
-<p align="center" > 
-<a href="https://hacktoberfest.digitalocean.com/" target="_blank"><img src="https://user-images.githubusercontent.com/26855364/136644285-080cd2bf-be2d-45ed-b212-d8717d430524.jpeg" alt="hacktoberfest"/></a> &nbsp;&nbsp;
-</p>
-
-`A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. 
-Create your very first pull request to any public repository on GitHub and contribute to the open source developer community and also get some cool swags!`
 
 &nbsp;&nbsp;
 
