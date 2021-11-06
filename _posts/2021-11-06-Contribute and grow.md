@@ -15,7 +15,7 @@ Missed hacktoberfest?
 
 Contribute to [GDSC's SRM IST Ramapuram GitHub repository](https://github.com/dsc-srmrmp/dsc-srmrmp.github.io)<br>
 
-solve the existing issus which has the Level Tag (Leve 1/Level2 etc) and get some Points and get a chance to win a [GitHub Tee](https://thegithubshop.com/collections/shirts) 👕 <br>
+Solve the existing issus which has the Level Tag (level 1/level 2... etc) and get some points and get a chance to win a [GitHub Tee](https://thegithubshop.com/collections/shirts) 👕 <br>
 
 Isn't it great ?🤩<br>
 
