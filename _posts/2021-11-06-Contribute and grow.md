@@ -19,6 +19,6 @@ solve the existing issus which has the Level Tag (Leve 1/Level2 etc) and get som
 
 Isn't it great ?🤩<br>
 
-Then why wait...jump onto our [GitHub repo](https://github.com/dsc-srmrmp/dsc-srmrmp.github.io) and start contributing
+Then why wait...[Signup here](https://forms.gle/iJ91cDMijJ5PNGBG7) and then go to our [GitHub repo](https://github.com/dsc-srmrmp/dsc-srmrmp.github.io) and start contributing
 
 `Deadline: November 7 2021 4:00 PM IST`
