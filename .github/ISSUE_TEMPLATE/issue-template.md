@@ -28,10 +28,3 @@ Explain the issues / Add fixes for the issues if any
 ```
 No. Explain if yes
 ```
-
-## Contact
-
-### Mail
-```
-Your mail id here for us to contact you
-```
