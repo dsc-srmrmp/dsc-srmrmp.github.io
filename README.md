@@ -12,6 +12,19 @@
 
  &nbsp;&nbsp;
 
+### Project Setup
+
+Configure [Jekyll gem](https://jekyllrb.com/)
+
+* [Installation](https://jekyllrb.com/docs/installation/)
+
+``` bash
+gem install jekyll bundler
+bundle install
+bundle exec jekyll serve
+```
+Navigate to [http://localhost:3000](http://localhost:3000). The app will automatically reload if you change any of the source files.
+
 <h1 align="center"> NEW HERE? </h1>
 
 &nbsp;&nbsp;
