@@ -23,7 +23,7 @@ gem install jekyll bundler
 bundle install
 bundle exec jekyll serve
 ```
-Navigate to [http://localhost:3000](http://localhost:3000). The app will automatically reload if you change any of the source files.
+Navigate to [http://127.0.0.1:4000/](http://localhost:3000). The app will automatically reload if you change any of the source files.
 
 <h1 align="center"> NEW HERE? </h1>
 
