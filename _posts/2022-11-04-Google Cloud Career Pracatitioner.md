@@ -33,7 +33,7 @@ Qwick Labs Public Profile
 > Follow information in [THIS LINK <- CLICK HERE](https://www.youtube.com/watch?v=qFzNqjGYB9Y) to know how to submit your public profile (Create new account only your profile will be rejected)
 
 Application for for selection
-> Fill this form out from here [THIS LINK <- CLICK HERE](https://forms.gle/79dsofJ6VcoMNR5u7)
+> Fill this form out from here [THIS LINK <- CLICK HERE](https://forms.gle/rCTnAtsc5bYdTR6S6)
 
 <h1>FAQ :</h1>
 >`Q : What is the Google Cloud Career Practitioners Campaign (GCCP)?`
