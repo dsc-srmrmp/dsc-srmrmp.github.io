@@ -7,7 +7,7 @@ author:     "GDSC | Immanuel Raj C"
 header-img: "img/inpost/contribute.png"
 hidden:     false
 ---
-<h1>Google Cloud Career Pracatitioner 2022</h1>
+<h1>Google Cloud Career Practitioner 2022</h1>
 This is a program from `Google Cloud` mainly focusing on the learning part of the Google cloud unlike the `#30DaysOfGoogleCloud`. This program is mainly based on [Cloud Engineering Learning Path](https://www.cloudskillsboost.google/paths/11) which will lead us to be a Google cloud expert and will give us to proficiency to be abled to write the Google Cloud Associate Cloud Engineer certification. This is very much valuable certificate which can be used as a big step in your professional journey.
 
 <h3>What do I need to do to be a part of this program?</h3>
