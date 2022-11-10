@@ -4,7 +4,7 @@ title:      Google Cloud Career Practitioner
 subtitle:   The Google Cloud event
 date:       2022-11-04 12:00:00
 author:     "GDSC | Immanuel Raj C"
-header-img: "img/inpost/contribute.png"
+header-img: "img/inpost/GCCP.png"
 hidden:     false
 ---
 <h1>Google Cloud Career Practitioner 2022</h1>
