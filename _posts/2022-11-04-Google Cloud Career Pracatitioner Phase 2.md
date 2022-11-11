@@ -7,6 +7,7 @@ author:     "GDSC | Immanuel Raj C"
 header-img: "img/inpost/GCCP.png"
 hidden:     false
 ---
+# > Read [THIS](https://dsc-srmrmp.github.io/2022/11/10/Google-Cloud-Career-Pracatitioner-Phase-2/) before reading the current one
 <h1>Google Cloud Career Practitioner 2022 Phase 2</h1>
 
 <h3>What do I need to do to be a part of this program?</h3>
