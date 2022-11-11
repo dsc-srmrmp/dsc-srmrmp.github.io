@@ -66,3 +66,4 @@ We ideally recommend this campaign for students who haven’t participated in 30
 <br>
 
 ### More detailed FAQ [HERE](https://docs.google.com/document/u/0/d/14ZVxcHySQVzn5XVlYWvOtJlzPzk_f77fbOolds0XQi8/mobilebasic)
+# Phase 2 infor link [HERE](https://dsc-srmrmp.github.io/2022/11/10/Google-Cloud-Career-Pracatitioner-Phase-2/)
